@@ -1,0 +1,8 @@
+@import "@servicenow/sass-kit/host";
+.x-523908-incident-list {
+	display: grid;
+	max-width: 1200px;
+	grid-template-columns: 1fr 1fr;
+	row-gap: 15px;
+	column-gap: 15px;
+}

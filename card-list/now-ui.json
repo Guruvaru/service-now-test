@@ -1,0 +1,14 @@
+{
+	"components": {
+		"x-523908-card-list": {
+			"innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.layout"],
+				"label": "My card list",
+				"icon": "chart-forecast-fill",
+				"description": "Test card list component"
+			}
+		}
+	},
+	"scopeName": "x_523908_test_ca_0"
+}
